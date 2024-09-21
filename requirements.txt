@@ -56,5 +56,4 @@ gTTS==2.5.3
 pygame==2.6.0
 deepface==0.0.93
 gunicorn==20.1.0
-tensorflow==2.6.0
-
+tensorflow==2.5.0
