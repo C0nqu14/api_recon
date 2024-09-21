@@ -56,4 +56,5 @@ gTTS==2.5.3
 pygame==2.6.0
 deepface==0.0.93
 gunicorn==20.1.0
-tensorflow==2.5.0
+tensorflow==2.17.0
+tensorflow-2.15.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
