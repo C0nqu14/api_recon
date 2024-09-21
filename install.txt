@@ -1,0 +1,5 @@
+google-generativeai
+python-opencv
+gtts
+pygame
+fastapi
